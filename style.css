@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+.sign-up {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    padding-bottom: 10px;
+}
+.sign-up__link {
+    color: #FFFFFF;
+}
+.main-header {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.main-header__inner {
+    display: flex;
+    align-items: center;
+    width: 1240px;
+    height: 48px;
+    margin: 0 auto;
+}
+.input-window-outer {
+    position: relative;
+    margin-left: 40px;
+}
+.input-icon {
+    position: absolute;
+    left: 16px;
+    top: 12px;
+}
+.input-window {
+    width: 558px;
+    height: 48px;
+    margin-right: 40px;
+    background-color: #f0f0f0;
+    border-radius: 62px;
+    border: none;
+    padding-left: 52px;
+}
+.navigation-top {
+    margin-right: 40px;
+}
+.navigation-link {
+    margin-right: 24px;
+}
+.main-top {
+    background-color: #f2f0f1;
+    height: 663px;
+}
+.main-logo {
+    padding-top: 103px;
+    padding-bottom: 32px;
+    margin-left: 102px;
+    width: 577px;
+    height: 173px;
+}
+.main-sentence {
+    opacity: 0.6;
+    padding-top: 42px;
+    margin-left: 102px;
+    margin-bottom: 20px;
+}
+.shopping-button {
+    border-radius: 62px;
+    background-color: #000000;
+    margin-left: 102px;
+    padding: 15px 67.5px;
+    color: #ffffff;
+    text-decoration:none;
+}
+.shopping-button:hover {
+    text-decoration:underline;
+}
+.products-number {
+    display: flex;
+    padding-left: 102px;
+}
+.brands {
+    padding-right: 114px;
+}
+.products {
+    padding-right: 88px;
+}
+.products-guide {
+    display: flex;
+    padding-left: 102px;
+    opacity: 0.6;
+}
+.brands-sentence {
+    padding-right: 64px;
+}
+.products-sentence {
+    padding-right: 64px;
+}
